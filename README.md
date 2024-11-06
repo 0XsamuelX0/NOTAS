@@ -2,7 +2,7 @@
 
 Proponer el uso de Obsidian en una empresa como Air Europa puede ser muy beneficioso, especialmente para gestionar y organizar información interna de manera segura. Obsidian es una aplicación de toma de notas que permite almacenar y vincular documentos de forma local sin necesidad de sincronizar con la nube, lo que se ajusta bien a las políticas de seguridad y confidencialidad.
 
-Aquí tienes algunos puntos a considerar para apoyar tu propuesta:
+Algunos puntos a considerar para apoyar tu propuesta:
 
 - **Almacenamiento Local**: Obsidian permite guardar notas de forma local, lo que ayuda a cumplir con políticas de seguridad, ya que no requiere conexión a internet ni almacenamiento en la nube.
 - **Estructuración y Filtrado**: Con la organización en carpetas y el sistema de enlaces, se pueden crear estructuras de documentos que faciliten la búsqueda de información sin comprometer la seguridad.
